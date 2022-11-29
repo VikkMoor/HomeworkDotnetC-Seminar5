@@ -27,5 +27,5 @@ FillArray(array);
 PrintArray(array);
 Console.WriteLine();
 int oddsum = 0;
-for (int i = 0; i < size; i += 2) oddsum = oddsum + array[i];
+for (int i = 1; i < size; i += 2) oddsum = oddsum + array[i];
 Console.WriteLine(oddsum);
