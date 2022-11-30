@@ -3,4 +3,4 @@
 
 2nd: input - random array, output - sum of numbers on odd positions.
 
-3rd: input - array; output - dif(max-min). (!METHOD!)
+3rd: input - array, output - dif(max-min). (!METHOD!)
