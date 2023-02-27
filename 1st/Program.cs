@@ -1,4 +1,4 @@
-﻿// Input - array (99 < i < 1000), output - how much even numbers.
+﻿// Input - array (99 < i < 1000), output - how many even numbers.
 void FillArray(int[] arr1)
 {
     int len1 = arr1.Length;
